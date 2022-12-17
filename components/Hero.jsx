@@ -18,7 +18,7 @@ const Hero = () => {
       <p className="text-gray-500">Produce FILM feature, TELEVISION and GAME</p>
       <Link href="/contact">
       <button className="bg-gray-700 text-white py-3 px-6 rounded text-sm">
-        CONTACT US
+        CONTACT US NOW
       </button>
       </Link>
    
